@@ -24,5 +24,3 @@ fun main() {
     val controller = Controller(Config)
     controller.play()
 }
-
-
